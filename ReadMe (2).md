@@ -1,0 +1,27 @@
+# 💫 About Me:
+ Hi there, I'm Gambhiram Raj! 👋<br><br>🎓 B.Tech Computer Science and Engineering student specializing in Cyber Security at Galgotias University.<br><br>💻 Passionate about Programming, Cyber Security, Software Development, Artificial Intelligence, and Problem Solving.<br><br>---<br><br> 🚀 About Me<br><br>- 🎓 Pursuing B.Tech in Computer Science and Engineering (Cyber Security).<br>- 💻 Interested in Java Development, Data Structures and Algorithms, and Software Engineering.<br>- 🔐 Exploring Cyber Security and Ethical Hacking.<br>- 🤖 Interested in Artificial Intelligence and chatbot development.<br>- 🧠 Continuously improving my problem-solving and programming skills.<br>- 🛠️ Building individual and collaborative projects to gain practical experience.<br>- 📜 Completed technical certifications from Red Hat, Oracle Academy, and GUVI.<br>- 💼 Completed an internship with CodeAlpha.<br>- 🎯 My goal is to become a skilled cybersecurity professional and software developer.<br><br>---<br><br>🧰 Technical Skills<br><br> 💻 Programming Languages<br>- Java<br>- C<br>- Python<br>- SQL<br><br> 📚 Core Computer Science<br>- Data Structures and Algorithms (DSA)<br>- Object-Oriented Programming (OOP)<br>- Database Management Systems (DBMS)<br>- Operating Systems<br>- Computational Thinking<br><br> 🔐 Cyber Security<br>- Cyber Security Fundamentals<br>- Ethical Hacking Concepts<br>- Linux Fundamentals<br><br> 🤖 AI & Development<br>- Groq<br>- LangChain<br>- AI-Based Applications<br><br> 🛠️ Tools & Platforms<br>- Git<br>- GitHub<br>- Linux<br><br>---<br><br> 📂 Featured Projects<br><br> 👥 Group Projects<br><br>**1. Employee Management System**<br>- A project focused on managing employee information and records.<br><br>**2. Online Voting System**<br>- A project designed to support electronic voting.<br><br>**3. Groq & LangChain ChatBot**<br>- A chatbot project using Groq and LangChain technologies.<br><br> 👨‍💻 Individual Projects<br><br>**1. [Air Canvas AI](https://github.com/Gambhiram-07/air-canvas-ai)**<br>- An AI-based drawing project.<br><br>**2. [Billing Software](https://github.com/Gambhiram-07/Billing-Software)**<br>- A software application focused on billing management.<br><br>---<br><br> 🏆 Certifications<br><br> 🔴 Red Hat<br>- Getting Started with Linux Fundamentals (RH104 - RHA) — Ver. 9.1<br>- Red Hat System Administration I (RH124 - RHA) — Ver. 9.3<br><br> 🗄️ Oracle Academy<br>- Database Programming with SQL<br><br> 🟢 GUVI<br>- Java for Beginners<br>- C Programming<br>- Data Structures and Algorithms (DSA)<br>- Object-Oriented Programming (OOP)<br>- Computational Thinking<br><br>---<br><br>💼 Internship Experience<br><br>**CodeAlpha — Internship Completed**<br><br>Completed an internship with CodeAlpha and continued developing my technical and programming skills.<br><br>---<br><br>🎯 Current Goals<br><br>- Strengthen my Java and DSA skills.<br>- Improve my problem-solving abilities.<br>- Develop practical cybersecurity knowledge.<br>- Explore AI and chatbot development.<br>- Build more real-world software projects.<br>- Continue learning and earning relevant technical certifications.<br><br>---<br><br>📫 Connect With Me<br><br>- 💻 **GitHub:** [Gambhiram-07](https://github.com/Gambhiram-07)<br>- 💼 **LinkedIn:** [Gambhiram Raj](https://www.linkedin.com/in/gambhiram-raj-3b3060331/)<br><br>---<br><br>⭐ *Always learning, building, and improving!*
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gambhiram-raj-3b3060331/) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Gambhiram-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Gambhiram-07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gambhiram-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gambhiram-07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Gambhiram-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Gambhiram-07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
